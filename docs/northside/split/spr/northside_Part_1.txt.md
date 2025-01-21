@@ -1,0 +1,17 @@
+- Northside Hospital: Comprehensive healthcare services, patient-focused care.
+- Quality, safety, service outcomes: Excellence and innovation in healthcare delivery.
+- Community and wellness: Outreach, education, health screening.
+- Accreditations: Recognized for clinical excellence.
+- Patient-centric structure: Navigation, support, billing, FAQs.
+- COVID-19 response: Safety measures, updates, vaccine information.
+- Behavioral health: Support programs, emotional health screening.
+- Medical records: ROI process, forms, contact info.
+- Healthcare services: Multi-specialty, advanced diagnostics, treatment centers.
+- Values: Excellence, compassion, service, teamwork, innovation.
+- Leadership in specialties: Research, clinical programs, education.
+- Community engagement: Improve access, specialized services.
+- Transparency: Financial disclosures, compliance, ethics.
+- Media and public relations: News, patient stories, media requests.
+- Educational opportunities: CME, graduate medical education.
+- Service locations: Extensive network across Georgia.
+- Partnerships and support: Enhancing community wellness.

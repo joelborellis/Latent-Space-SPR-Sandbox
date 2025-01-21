@@ -1,0 +1,7 @@
+- Transaction closing in Q2 2021, pending regulatory approvals. Advisors: UBS, Goldman Sachs, Jefferies, Evercore, BofA, Barclays, JP Morgan.
+- Precisely expands leadership: new CFO, CPO, CISO for growth with Data Integrity Suite.
+- Dynamic Weather tool enhances decision-making with hyper-local weather data.
+- Data Integrity Suite: accurate, consistent data through quality, enrichment, location intelligence.
+- COVID-19 accelerates digital CX; demand for seamless, integrated experiences rises.
+- Precisely on Snowflake: offers enriched datasets for analytics.
+- Connect enables data integration to cloud platforms: Azure, Databricks, Snowflake.
