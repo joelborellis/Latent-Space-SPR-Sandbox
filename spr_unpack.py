@@ -78,14 +78,14 @@ async def main():
     conversation.append(
         {
             "role": "user",
-            "content": [{"type": "text", "text": open_file("./docs/northside_spr.md")}],
+            "content": [{"type": "text", "text": open_file("./docs/truein/spr/truein_spr.md")}],
         }
     )
 
     text, model, tokens, formatted_time = await chat(
         model=OPENAI_MODEL,
         messages=conversation,
-        max_completion_tokens=2000,
+        max_completion_tokens=4000,
         temperature=1,
         response_format=ModelResponse,
     )
@@ -98,7 +98,7 @@ async def main():
     print(f"Your question prompt used: {tokens.prompt_tokens_details}")
     print(f"Time elapsed: {formatted_time}")
 
-    save_file("./docs/northside_spr_unpack.md", text)
+    save_file("./docs/truein/spr/truein_spr_unpack.md", text)
 
 
 if __name__ == "__main__":

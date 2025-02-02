@@ -5,6 +5,7 @@ azure-identity
 openai
 Halo
 backoff
-streamlit
 tiktoken
 langchain
+rich
+pandas

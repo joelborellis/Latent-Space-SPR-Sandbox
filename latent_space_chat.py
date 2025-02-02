@@ -32,7 +32,7 @@ async def chat(**kwargs):
     try:
         spinner = Halo(text="Reasoning...", spinner="dots")
         spinner.start()
-        print(kwargs)
+        #print(kwargs)
 
         start_time = time.time()  # Record the start time
         response = await client.beta.chat.completions.parse(**kwargs)
