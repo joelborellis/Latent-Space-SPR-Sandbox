@@ -155,13 +155,13 @@ async def process_files(
             print(f"Your question prompt used: {tokens.prompt_tokens_details}")
             print(f"Time elapsed: {formatted_time}")
 
-            save_file("./docs/truein/spr/truein_spr.md", text)
+            save_file("./docs/langone/spr/langone_spr.md", text)
 
 
 if __name__ == "__main__":
 
     # Define the directory containing the text files and the path to the prompt file
-    docs_directory = "./docs/truein/split"
+    docs_directory = "./docs/langone/split"
     prompt_file = "./prompts/spr_pack.xml"
 
     asyncio.run(process_files(docs_directory, prompt_file))
